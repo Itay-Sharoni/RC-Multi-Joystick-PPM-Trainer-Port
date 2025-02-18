@@ -7,6 +7,9 @@ If you’ve ever wanted to fly your RC craft with real plane-style controllers o
 
 Now the sky is not the limit!
 
+
+[Example Video (MP4)](Example.mp4?raw=true)
+
 ## Features
 
 - **8-Channel PPM Generation**  
