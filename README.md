@@ -52,7 +52,7 @@ Now the sky is not the limit!
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/RC-Multi-Joystick-PPM-Trainer-Port.git
+   git clone https://github.com/Itay-Sharoni/RC-Multi-Joystick-PPM-Trainer-Port.git
    cd RC-Multi-Joystick-PPM-Trainer-Port
    ```
 
