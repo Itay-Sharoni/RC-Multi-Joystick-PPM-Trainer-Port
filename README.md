@@ -184,6 +184,14 @@ To have the PPM generator start automatically at boot:
    sudo systemctl start joystick_ppm.service
    ```
 
+## Calibrating Your Joystick
+### OS-Level Calibration:
+```bash
+sudo apt-get install joystick
+jscal -c /dev/input/js0
+```
+Follow the prompts to calibrate the axes so that the center position is zero and the extremes are properly mapped.
+
 
 ## Author & Acknowledgements
 
