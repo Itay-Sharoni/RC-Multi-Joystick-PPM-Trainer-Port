@@ -1,7 +1,11 @@
 # RC Multi Joystick PPM Trainer Port
 
-**One-Line Description:**  
+## Description
 A multi-joystick PPM generator for RC trainer ports, featuring hotplug support, trim, expo, inversion, and an inspector utility.
+
+If you’ve ever wanted to fly your RC craft with real plane-style controllers or even an Xbox controller connected via USB
+
+Now the sky is not the limit!
 
 ## Features
 
